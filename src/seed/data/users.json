@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Antonio Clon1",
+    "email": "AntonioClon1@nocountry.com",
+    "password": "pbM8XcIR#En%kH7K",
+    "rol": "admin"
+  },
+  {
+    "name": "Antonio Clon2",
+    "email": "AntonioClon2@nocountry.com",
+    "password": "pbM8XcIR#En%kH7K",
+    "rol": "user"
+  },
+  {
+    "name": "Antonio Clon3",
+    "email": "AntonioClon3@nocountry.com",
+    "password": "pbM8XcIR#En%kH7K",
+    "rol": "user"
+  },
+  {
+    "name": "Antonio Clon4",
+    "email": "AntonioClon4@nocountry.com",
+    "password": "pbM8XcIR#En%kH7K",
+    "rol": "user"
+  },
+  {
+    "name": "Antonio Clon5",
+    "email": "AntonioClon5@nocountry.com",
+    "password": "pbM8XcIR#En%kH7K",
+    "rol": "user"
+  }
+]
